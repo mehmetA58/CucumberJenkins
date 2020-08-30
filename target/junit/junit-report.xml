@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="3" tests="3" time="0.005355">
+<testcase classname="The application should be running" name="first search" time="0.004559">
+<skipped><![CDATA[Given I am on the home page.................................................undefined
+When I search for "educational games".......................................undefined
+Then I should see the results...............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="The application should be running" name="second search" time="0.000301">
+<skipped><![CDATA[Given I am on the home page.................................................undefined
+When I search for "bright ears".............................................undefined
+Then I should see more results..............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="The application should be running" name="third search" time="0.000495">
+<skipped><![CDATA[Given I am on the home page.................................................undefined
+When I search for "baby grinch".............................................undefined
+Then I should see the results...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
